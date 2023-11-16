@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid grey;
+}
+
+span {
+    font-weight: bold;
+    font-style: 1.2rem;
+    padding: 0 5px 0 5px;
+    color: orange;
+}
